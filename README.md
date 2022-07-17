@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dreamboat999&label=Profile%20views&color=0e75b6&style=flat"
     alt="dreamboat999" /> 
   </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamboat999&no-bg=true&theme=algolia&no-frame=true" alt="dreamboat999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamboat999&no-bg=true&theme=algolia" alt="dreamboat999" /></a> </p>
 <br>
 
 <p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" /></p>
